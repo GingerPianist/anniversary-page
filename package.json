@@ -1,7 +1,6 @@
 {
   "name": "heart-gallery",
   "version": "0.1.0",
-  "homepage": "https://gingerpianist.github.io/anniversary-page",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
