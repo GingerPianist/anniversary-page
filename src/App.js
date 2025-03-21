@@ -12,9 +12,7 @@ function App() {
 
 
   function handleClick(){
-    <Link to="/another-page">
-      <button>Go to Another Page</button>
-    </Link>
+   
   }
 
   useEffect(() =>{
