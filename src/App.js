@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <div styles ="height: 50%">
           <header className="App-header">
-            <a href="gallery.html" onClick={handleClick}>
+            <a href="https://gingerpianist.github.io/anniversary-gallery/" onClick={handleClick}>
             <img src={heart} className="heart-logo"  style={{width: `${heartSize}%`}} alt="logo" />
             </a>
          
